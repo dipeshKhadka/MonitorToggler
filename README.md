@@ -6,6 +6,10 @@ Runs silently in the system tray with no console window. Safe to use alongside g
 
 ---
 
+<p align="center">
+  <img src="blob:https://gemini.google.com/17186bb3-829e-412a-a147-342817ebf3a4" alt="MonitorToggler AI preview" width="800">
+</p>
+
 ## Features
 
 - **Resolution preset picker** — press a hotkey to open a popup for the monitor under your cursor. Pick from saved presets or define your own (any resolution + refresh rate). The active preset is highlighted.
