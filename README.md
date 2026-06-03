@@ -7,7 +7,7 @@ Runs silently in the system tray with no console window. Safe to use alongside g
 ---
 
 <p align="center">
-  <img src="blob:https://gemini.google.com/17186bb3-829e-412a-a147-342817ebf3a4" alt="MonitorToggler AI preview" width="800">
+  <img src="https://freeimage.host/i/CKzv0Ja" alt="MonitorToggler AI preview" width="800">
 </p>
 
 ## Features
